@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TimofeySIvanov/web-app/static/css/main.3a22b66b.chunk.css",
+    "main.js": "/TimofeySIvanov/web-app/static/js/main.fdbbf95a.chunk.js",
+    "main.js.map": "/TimofeySIvanov/web-app/static/js/main.fdbbf95a.chunk.js.map",
+    "runtime-main.js": "/TimofeySIvanov/web-app/static/js/runtime-main.bea63d8c.js",
+    "runtime-main.js.map": "/TimofeySIvanov/web-app/static/js/runtime-main.bea63d8c.js.map",
+    "static/js/2.1aa90f7c.chunk.js": "/TimofeySIvanov/web-app/static/js/2.1aa90f7c.chunk.js",
+    "static/js/2.1aa90f7c.chunk.js.map": "/TimofeySIvanov/web-app/static/js/2.1aa90f7c.chunk.js.map",
+    "index.html": "/TimofeySIvanov/web-app/index.html",
+    "precache-manifest.69e76649224cd89a633bd6813c6d9f70.js": "/TimofeySIvanov/web-app/precache-manifest.69e76649224cd89a633bd6813c6d9f70.js",
+    "service-worker.js": "/TimofeySIvanov/web-app/service-worker.js",
+    "static/css/main.3a22b66b.chunk.css.map": "/TimofeySIvanov/web-app/static/css/main.3a22b66b.chunk.css.map",
+    "static/js/2.1aa90f7c.chunk.js.LICENSE.txt": "/TimofeySIvanov/web-app/static/js/2.1aa90f7c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bea63d8c.js",
+    "static/js/2.1aa90f7c.chunk.js",
+    "static/css/main.3a22b66b.chunk.css",
+    "static/js/main.fdbbf95a.chunk.js"
+  ]
+}
